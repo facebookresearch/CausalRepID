@@ -1,3 +1,5 @@
+# Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved
+
 latent_case=$1
 
 for seed in 0 1 2 3 4

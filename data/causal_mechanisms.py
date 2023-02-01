@@ -1,7 +1,10 @@
+# Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved
+
 """Defining a set of classes that represent causal functions/ mechanisms.
 
 Author: Diviyan Kalainathan
 Modified by Philippe Brouillard, July 24th 2019
+Modified by Divyat Mahajan, December 30th 2022
 
 .. MIT License
 ..

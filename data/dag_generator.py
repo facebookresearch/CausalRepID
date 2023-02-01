@@ -1,8 +1,11 @@
+# Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved
+
 """ DAG Generator.
 
 Generates a dataset out of an acyclic FCM.
 Author : Olivier Goudet and Diviyan Kalainathan
 Modified by Philippe Brouillard, June 25th 2019
+Modified by Divyat Mahajan, December 30th 2022
 
 .. MIT License
 ..

@@ -1,3 +1,5 @@
+# Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved
+
 # Example full command
 # sbatch scripts/slurm_exps.sh train 0 1e-3 ae uniform 6 2
 
