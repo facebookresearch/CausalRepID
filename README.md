@@ -50,3 +50,7 @@ Run all the commands stated above for the observational case (Table 2) with the 
 
 #### Log Results
 - python scripts/main_exps_images.py --case log
+
+## License
+
+This source code is released under the MIT license, included [here](LICENSE).

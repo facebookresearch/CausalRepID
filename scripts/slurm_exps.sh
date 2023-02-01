@@ -1,3 +1,5 @@
+# Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved
+
 #!/bin/sh
 #SBATCH --cpus-per-task=4               
 #SBATCH --mem=24G                        
