@@ -1,4 +1,4 @@
-# Interventional Causal Representation Learning
+# [Interventional Causal Representation Learning](https://arxiv.org/abs/2209.11924)
 
 ## Reproduce Results for the Polynomial Decoder Datasets
 
